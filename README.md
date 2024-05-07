@@ -13,14 +13,17 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Tech
-- Mern 
-- OpenAI
+
+-MongoDB
+-Express.js
+-React
+-Node.js
+-OpenAI
 
 ## Preview
 
-<img src="dark-hero.png" alt="" width="100%"/>
-<img src="dark-greet.png" alt="" width="100%"/>
-<img src="dark-chat.png" alt="" width="100%"/>
-<img src="light-chat.png" alt="" width="100%"/>
-
+<img src="dark-hero.png" alt="Dark Hero" width="100%"/>
+<img src="dark-greet.png" alt="Dark Greet" width="100%"/>
+<img src="dark-chat.png" alt="Dark Chat" width="100%"/>
+<img src="light-chat.png" alt="Light Chat" width="100%"/>
 
