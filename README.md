@@ -25,7 +25,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Preview
 
-<img src="./images/dark-hero.png" alt="" width="100%"/>
+<img src="./client/public/dark-hero.png" alt="" width="100%"/>
 <img src="./images/dark-greet.png" alt="" width="100%"/>
 <img src="./images/dark-chat.png" alt="" width="100%"/>
 <img src="./images/light-chat.png" alt="" width="100%"/>
